@@ -1,1 +1,2 @@
-# Variance-and-mean-of-4-images
+# Variance-and-mean-of-images
+This code can calculate the variance, mean, and correlation of an image.
